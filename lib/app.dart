@@ -58,6 +58,6 @@ class Authentication extends HookWidget {
     } else if (status == const UserInfoStatus.authenticated()) {
       return TodoListPage();
     }
-    return Container(child: Text('text'));
+    return Container(child: const Text('text'));
   }
 }

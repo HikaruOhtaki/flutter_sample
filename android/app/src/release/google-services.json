@@ -7,50 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:940321301009:android:649f11b3aca189632ec7b0",
-        "android_client_info": {
-          "package_name": "com.example.flutter_sample"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "940321301009-0u4kfmavp5d0ha3b21q7bsslnkbt3ebs.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.flutter_sample",
-            "certificate_hash": "ab6775c05ad2755b6d469917683a656e771e750c"
-          }
-        },
-        {
-          "client_id": "940321301009-imfiuu5j3kng4cp334ckr63u5v7djlnn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB0rztn1K7HyUxGkUZVf-zshlxM7FD9NDY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "940321301009-imfiuu5j3kng4cp334ckr63u5v7djlnn.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "940321301009-6o20fslo59vicav35ovjn77gabklii2n.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "jp.co.fignny.FlutterSample"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:940321301009:android:831f6f5ca23d46212ec7b0",
         "android_client_info": {
           "package_name": "jp.co.fignny.FlutterSample"
