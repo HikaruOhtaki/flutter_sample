@@ -1,6 +1,6 @@
 # flutter_sample
 
-A new Flutter project.
+A new flutter_sample Flutter project.
 
 ## Getting Started
 
