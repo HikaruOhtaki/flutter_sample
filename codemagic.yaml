@@ -7,7 +7,7 @@ workflows:
     name: Example Workflow
     scripts:
       - name: Step name
-        script: echo "Hello Codemagician!"
+        script: echo "hello"
     publishing:
       email:
         recipients:
