@@ -51,6 +51,7 @@ jobs:
           workspace-path: ios/Runner.xcworkspace
           certificate-password: ${{ secrets.CERTIFICATES_P12_PASSWORD }}
           output-path: app-release.ipa
+          export-method: ad-hoc
 
       - name: Upload artifact
         uses: actions/upload-artifact@v1.0.0
